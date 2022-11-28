@@ -1,3 +1,3 @@
 # angular-pymes
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/84292-pasopasoang)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-pymes)
